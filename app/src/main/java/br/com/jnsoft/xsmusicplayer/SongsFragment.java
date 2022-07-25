@@ -22,7 +22,7 @@ public class SongsFragment extends Fragment {
     RecyclerView rvFiles;
     static MusicAdapter musicAdapter;
     public SongsFragment() {
-        // Required empty public constructor
+        // Required empty public constructor view
     }
 
     @Override
