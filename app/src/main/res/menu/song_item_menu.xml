@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/song_shared" android:title="Compartilhar" app:showAsAction="never"/>
+    <item android:id="@+id/song_send" android:title="Enviar" app:showAsAction="never"/>
+    <item android:id="@+id/song_delete" android:title="Deletar" app:showAsAction="never"/>
+
+    <item android:id="@+id/song_info" android:title="Informações" app:showAsAction="never"/>
+</menu>
